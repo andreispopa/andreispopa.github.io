@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrei Popa - Personal Website</title>
-    <link>andreispopa.github.io/</link>
+    <link>https://www.andreispopa.com/</link>
     <description>Recent content on Andrei Popa - Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="andreispopa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.andreispopa.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>andreispopa.github.io/about/</link>
+      <link>https://www.andreispopa.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>andreispopa.github.io/about/</guid>
+      <guid>https://www.andreispopa.com/about/</guid>
       <description>Favorite perspective on software development is that we build things with code.
 I enjoy chasing down and fixing bugs (it&amp;rsquo;s like a puzzle that requires a very good understanding of the system in order to do efficiently) and I&amp;rsquo;m a fan of keeping things organized.
 I&amp;rsquo;m taller than you (most likely).
